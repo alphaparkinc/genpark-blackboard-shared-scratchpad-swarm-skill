@@ -1,0 +1,20 @@
+{
+  "name": "genpark-blackboard-shared-scratchpad-swarm-skill",
+  "version": "1.0.0",
+  "description": "Centralized blackboard pattern for multi-agent swarm task posting, condition watching, and state accumulation",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "blackboard-pattern",
+    "shared-memory",
+    "multi-agent",
+    "swarm-coordination",
+    "scratchpad",
+    "python-standard-library",
+    "agent-skills",
+    "task-coordination",
+    "distributed-systems",
+    "collaborative-ai"
+  ]
+}
