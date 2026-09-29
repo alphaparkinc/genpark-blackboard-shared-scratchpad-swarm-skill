@@ -1,0 +1,6 @@
+name: genpark-blackboard-shared-scratchpad-swarm-skill
+version: 1.0.0
+description: Centralized blackboard pattern for multi-agent swarm task posting, condition watching, and state accumulation
+command: python
+args:
+  - mcp_server.py
