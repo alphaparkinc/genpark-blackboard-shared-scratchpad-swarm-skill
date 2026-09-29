@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-blackboard-shared-scratchpad-swarm-skill"
+version = "1.0.0"
+description = "Centralized blackboard pattern for multi-agent swarm task posting, condition watching, and state accumulation"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
